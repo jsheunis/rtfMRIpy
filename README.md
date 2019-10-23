@@ -1,2 +1,2 @@
 # rtfMRIpy
-Scripts and utilities for real-time analysis of fMRI data
+Python scripts and utilities for real-time analysis of fMRI data
