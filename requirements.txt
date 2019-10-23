@@ -1,3 +1,4 @@
+nipy
 numpy
 matplotlib
 nibabel
